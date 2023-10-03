@@ -1423,6 +1423,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 2
   RotateDamping: 0.01
+  TilePrefab: {fileID: 1624686273976596474, guid: 01ee990056a4b864b9a5f88a0e432647, type: 3}
+  TilesParent: {fileID: 891253085}
+  DirtyMaterial: {fileID: 2100000, guid: e8d42f38eaeb4974294939c60fa9aa4d, type: 2}
+  CleanMaterial: {fileID: 2100000, guid: 577b42b5372547b468d27a50f14bcec4, type: 2}
 --- !u!4 &1397883480
 Transform:
   m_ObjectHideFlags: 0
@@ -1756,7 +1760,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092862390}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.5, z: 0}
+  m_LocalPosition: {x: 0, y: -0.501, z: 0}
   m_LocalScale: {x: 100, y: 1, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
